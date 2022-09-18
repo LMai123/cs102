@@ -73,7 +73,7 @@ class PlayerConfig:
     DEFAULT_X: int = 350
     DEFAULT_Y: int = 400
     SPRITE_PATH: Path = ASSET_DIR / "player"
-    SCALE: float = 0.16
+    SCALE: float = 0.4 #0.16
     GRAVITY: int = 2
     SPEED: int = 7
     JUMP_VERTICAL_SPEED: int = 26
@@ -112,12 +112,12 @@ class PlayerInventoryConfig:
 class PlayerBulletConfig:
     SPRITE_PATH: Path = ASSET_DIR / "items" / "player_bullet.png"
     SCALE: float = 0.7
-    SPEED: int = 35
+    SPEED: int = 50 #35
     GRAVITY: int = 2
     DAMAGE: int = 10
 
     # initial vertical movement
-    INIT_DY: int = -10
+    INIT_DY: int = -5 #-10
 
     # the time between creation and deletion of entities of this type
     TTL_MS: int = 400 * 60 // GameConfig.FPS
@@ -160,8 +160,8 @@ class ShadowBulletConfig:
 
 
 class EndingBurgerConfig:
-    SPRITE_PATH: Path = ASSET_DIR / "items" / "player_bullet.png"
-    SCALE: float = 0.8
+    SPRITE_PATH: Path = ASSET_DIR / "items" / "hamburger.png"
+    SCALE: float = 0.19 #0.8
     GRAVITY: float = 2.5
 
     # the time between creation and deletion of entities of this type
@@ -178,7 +178,7 @@ class TrampolineConfig:
 @dataclass
 class NpcConfig:
     entity_type: EntityType
-    scale: float = 0.6
+    scale: float = 0.5 #0.6
     animation_interval_ms: int = 2500
     default_alpha: int = 180  # 255 is fully opaque
 

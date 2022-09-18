@@ -39,6 +39,6 @@ def event_handler(world: World) -> None:
             npc = world.get_entity(npc_chu_nam_id)
             world.add_entity(
                 EntityType.TRAMPOLINE,
-                npc.rect.x + 76,
-                npc.rect.y + 156,
+                npc.rect.x + 76,    #76
+                npc.rect.y + 130,   #156
             )

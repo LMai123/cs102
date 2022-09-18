@@ -3,40 +3,48 @@
   "dialogues": [
     [
       {
-        "Subject": "Táy Máy",
-        "Line": "Anh ơi, anh có sao không?"
+        "Subject": "Player",
+        "Line": "Chào anh,anh cũng là người của viện nghiên cứu này à?"
       },
       {
         "Subject": "Chú Nhân",
-        "Line": "Anh đang có chút mệt mỏi."
+        "Line": "Đúng rồi! Em có câu hỏi gì không?"
       },
       {
-        "Subject": "Táy Máy",
-        "Line": "Em tặng anh chỗ kẹo này nhé."
-      },
-      {
-        "Subject": "Chú Nhân",
-        "Line": "Ồ, tốt quá, anh cảm thấy khoẻ hơn rồi, cảm ơn em!"
-      },
-      {
-        "Subject": "Táy Máy",
-        "Line": "Sao trong văn phòng của mình có nhiều bóng đen vậy ạ?"
+        "Subject": "Player",
+        "Line": "Nếu chinh phục được hết nơi này,em sẽ được cái gì ở cuối?"
       },
       {
         "Subject": "Chú Nhân",
-        "Line": "Vì thung lũng STEAM đang bị năng lượng tiêu cực bao phủ..."
+        "Line": "1.Em sẽ được quay lại thế giới của em."
       },
       {
         "Subject": "Chú Nhân",
-        "Line": "Năng lượng này kết thành những bóng đen khiến mọi người mệt mỏi."
+        "Line": "2.Em sẽ có được những kiến thức hữu ích mà nhân loại chưa biết."
+      },
+      {
+        "Subject": "PLayer",
+        "Line": "Em sẽ lấy được kiến thức ở đây?"
       },
       {
         "Subject": "Chú Nhân",
-        "Line": "Đứng đầu là chúa tể bóng đen, đang đóng giữ gần đây."
+        "Line": "Trong thời gian em ở đây, em có thể học rất nhiều kiến thức."
       },
       {
-        "Subject": "Táy Máy",
-        "Line": "Em sẽ lan toả năng lương tích cực để xua tan bóng đen!"
+        "Subject": "Chú Nhân",
+        "Line": "Em có thể dùng những kiến thức đó để giúp nhân loại và thế giới."
+      },
+      {
+        "Subject": "Player",
+        "Line": "Ở cuối hành trình của em là gì?"
+      },
+      {
+        "Subject": "Chú Nhân",
+        "Line": "Em sẽ phải đối đầu với boss. Một con evil robot."
+      },
+      {
+        "Subject": "Chú Nhân",
+        "Line": "Hãy xóa sổ nó và tiến đến bược cuối cùng của hành trình của em."
       }
     ]
   ]

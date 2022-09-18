@@ -4,31 +4,75 @@
     [
       {
         "Subject": "Chú Nam",
-        "Line": "Em là Táy Máy, thực tập sinh mới phải không?"
+        "Line": "Chào em! Anh tên là Nam."
       },
       {
-        "Subject": "Táy Máy",
-        "Line": "Dạ đúng rồi ạ."
-      },
-      {
-        "Subject": "Chú Nam",
-        "Line": "Em đi tham quan vui vẻ nhé."
-      },
-      {
-        "Subject": "Táy Máy",
-        "Line": "Nhưng ở đây đường đi tiếp cao quá ạ..."
+        "Subject": "Player",
+        "Line": "Chào anh, anh có biết cách ra khỏi đây không?"
       },
       {
         "Subject": "Chú Nam",
-        "Line": " Aha, anh có thể làm một cái bật nhún!"
+        "Line": "Anh tưởng chị Nga đã giải thích cho em rồi."
+      },
+      {
+        "Subject": "Player",
+        "Line": "Vâng, và cái chị ở đằng kia bảo em là phải chinh phục hết nơi này."
       },
       {
         "Subject": "Chú Nam",
-        "Line": "Em kiếm cho anh một số linh kiện để làm nhé?"
+        "Line": "Đúng rồi, sau khi đã clear được hết tất cả level ở đây, em mới quay trở về thực tế được."
       },
       {
-        "Subject": "Táy Máy",
-        "Line": "Được ạ!",
+        "Subject": "PLayer",
+        "Line": "Level? Chuyện gì đã xảy ra với những người không qua được hết level?"
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": ".... À, những người đó không thể quay trở về thực tế của họ."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Anh mong là em sẽ không như thế, anh thấy em là một người rất thông minh."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Chính em quyết định đi đến nơi này phải không?"
+      },
+      {
+        "Subject": "Player",
+        "Line": "Vâng, là do em tò mò."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Chỉ có những người rất xứng đáng mới vào được nơi này thôi."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Nơi này không bắt những người không muốn đến đi vào."
+      },
+      {
+        "Subject": "Player",
+        "Line": "Giả sử như có người thật sự hối hận vào đây thì sao?"
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Anh thấy ý chí của em rất mạnh và em muốn chinh phục nơi này đến tận cùng phải không?"
+      },
+      {
+        "Subject": "Player",
+        "Line": "... Đúng ạ, nhưng em còn rất nhiều câu hỏi."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Tốt, đến cuối hành trình của em mọi thứ sẽ được giải đáp."
+      },
+      {
+        "Subject": "Chú Nam",
+        "Line": "Bây giờ em tìm cho anh linh kiện để làm cái bật nhún nhé."
+      },
+      {
+        "Subject": "Player",
+        "Line": "À, được ạ.",
         "QuestToStart": "TRAMPOLINE"
       }
     ],
